@@ -1,0 +1,15 @@
+.display{
+    height: 40px;
+    width: 250px;
+    background-color:rgb(189, 192, 171);
+    border: 3px solid black;
+    text-align: left;
+}
+#gg{
+    border:2px solid black;
+    background-color: aqua;
+    text-decoration-style: inherit;
+}
+body{
+    background-color:rgb(88, 97, 97);
+}
